@@ -33,6 +33,7 @@ Example sites that have low to no customization:
 | [etcd](https://etcd.io/) | https://github.com/etcd-io/website |
 | [protobuf.dev](https://protobuf.dev) | https://github.com/protocolbuffers/protocolbuffers.github.io |
 | [Layer5 Docs](https://docs.layer5.io/) | https://github.com/layer5io/docs |
+| [YMCA Website Services - a Drupal Distribution](https://ds-docs.y.org/) | https://github.com/YCloudYUSA/yusaopeny_docs |
 
 ## Customized Docsy examples
 
